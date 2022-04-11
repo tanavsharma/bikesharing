@@ -47,6 +47,11 @@ The second visualization can help us understand when to have the bikes stocked f
 
 ---
 
+#### Bike Usage and Maintenance Visualization 
+Below image helps us understand which bikes will require service/maintenance work. As we can see that bikes that are used more frequently will require servicing quicker compare to bikes which arent used as frequent. 
+
+<img src="/images/BikeUsage.png" alt="main-screen" width="950"><br><br>
+
 
 
 ### Summary
