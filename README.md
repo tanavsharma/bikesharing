@@ -14,9 +14,15 @@ Click on this link to view the full story of analysis -> https://tinyurl.com/yn3
 
 
 #### Customer Information
-Below we can see information regarding our target demographic. This can help provide insight, on how to better target the right market and crowd for the most efficient increase in revenue. As we can see that a high percentage of males use this service compare to females, so it will be wise to place these bikes in areas with a higher male population. 
+Below we can see information regarding our target demographic with a pie chart, and also a line graph showing Usage by Gender. This can help provide insight, on how to better target the right market and crowd for the most efficient increase in revenue. As we can see that a high percentage of males use this service compare to females, so it will be wise to place these bikes in areas with a higher male population. 
 
+##### Customer Information Visualization 
 <img src="/images/CustomerInformation.png" alt="main-screen" width="950"><br><br>
+
+##### Usage by Gender Visualization 
+<img src="/images/TripDurationgByGender.png" alt="main-screen" width="950"><br><br>
+
+--- 
 
 #### Popular Cities for Program
 Below we can see information regarding geographical areas of high interest. This can help provide insight, on how to better target the right market and crowd for the most efficient increase in revenue. As we can see that there is high usaage in areas where there is alot of foot traffic or where the use of a automobile isnt the most pleasent, aka downtown. So it will be ideal to target areas where most people have to comute on foot and where the addition of this service will provide an added benefit to individuals.
