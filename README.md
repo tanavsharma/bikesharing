@@ -29,12 +29,18 @@ Below we can see information regarding geographical areas of high interest. This
 
 <img src="/images/HighInterestTouristAreas.png" alt="main-screen" width="950"><br><br>
 
-
+---
 
 #### Rides Per Hour of Day 
-Below we can see information regarding our use of bikes. This can help provide insight, on when the use of bikes is highest and lowest, and it can help us determine when we can do bike repairs for example. From our analysis we can conclude that, our lowest operation time is between 2am - 5am, which would be a perfect time for repairs and maintenance work. 
+Below we can see two images that help us give information regarding our use of bikes. 
+
+The first visualization can help provide insight, on when the use of bikes is highest and lowest, and it can help us determine when we can do bike repairs. From our analysis we can conclude that, our lowest operation time is between 2am - 5am, which would be a perfect time for repairs and maintenance work. 
 
 <img src="/images/TotalRidesPerHourOfDay.png" alt="main-screen" width="950"><br><br>
+
+The second visualization can help us understand when to have the bikes stocked for to support the demand for the bikes. For example, in our example below, we can see and visualize that the times of highest use or traffic is Monday - Friday and at times from 8am - 9am (which is the time most people are goint to work). The second busiest time is between 5pm to 7pm (which is again when people are finishing work and going home).
+<img src="/images/NumberOfTripsPerHour.png" alt="main-screen" width="950"><br><br>
+
 
 
 ### Summary
