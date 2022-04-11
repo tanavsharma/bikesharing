@@ -52,6 +52,6 @@ Below image helps us understand which bikes will require service/maintenance wor
 
 <img src="/images/BikeUsage.png" alt="main-screen" width="950"><br><br>
 
-
-
 ### Summary
+In conclusion, bikeshare services are very popular in busy areas, areas with a high tourist attraactions, where occupied real estate is densely packed and parking spaces may be scarce and also where automobile transportation isnt ideal. The user base is made up mostly of male subscribers, providing regular income to the program. Focus should be put towards making sure there is enough bike supply during peek hours.
+
